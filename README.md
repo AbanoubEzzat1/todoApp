@@ -1,16 +1,8 @@
 # udemy_course_todo
 
-A new Flutter project.
+<img src="https://github.com/AbanoubEzzat1/todoApp/blob/master/TodoApp.png">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter application developed to manage appointments and tasks, featuring
+the ability to add, favorite, and mark tasks as completed. The app utilizes a small
+database with Sqflite and is built using clean architecture and design patterns
+for optimal functionality and maintainability
