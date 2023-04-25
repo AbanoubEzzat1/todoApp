@@ -1,4 +1,4 @@
-# udemy_course_todo
+# TODO App
 
 <img src="https://github.com/AbanoubEzzat1/todoApp/blob/master/TodoApp.png">
 
